@@ -4,3 +4,7 @@
 上海停摆一个月，我感觉整个人都有点呆傻了，为了让自己2021年开发一年的研发成果不至于浪费，我打算开源自己研发的这套系统
 如果有缘人下载后，觉得对量化分析有帮助，就请与我联系，我们共同完善它。
 我个人的力量有限，所以感觉自己遇到了瓶颈，但也有根据数据操作得很成功过。
+![image](https://user-images.githubusercontent.com/34512910/166452975-8993cf26-f718-41ad-9ad5-5cbcd3f23d57.png)
+![image](https://user-images.githubusercontent.com/34512910/166453131-fec229a0-f6e1-4893-af85-5f3e63dbb5b4.png)
+
+本系统采用本地数据库方式，C# + Access + Excel的操作方法，所以你可以用Visual Stuio 2015来打开项目文件，从而进行编译运行。
